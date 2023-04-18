@@ -32,6 +32,6 @@ EXPOSE 8080
 
 
 # Run
-CMD ["/docker-gs-ping"]
+CMD ["/wqr-pdl-hello"]
 
 
