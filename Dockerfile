@@ -4,8 +4,8 @@
 
 FROM golang:1.19
 
-ENV http_proxy=http://10.123.0.132:3128
-ENV https_proxy=http://10.123.0.132:3128
+# ENV http_proxy=http://10.123.0.132:3128
+# ENV https_proxy=http://10.123.0.132:3128
 # ENV GOOGLE_APPLICATION_CREDENTIALS=./dbg-corpit-dev-2c1cb73a-9c4787a8be2d.json
 
 # Set destination for COPY
